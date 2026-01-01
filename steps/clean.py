@@ -19,6 +19,9 @@ class Cleaner:
         data['Switch'] = data['Switch'].fillna(-1)
         data['PastAccident'] = data['PastAccident'].fillna("Unknown", inplace=False)
         
+        # Drop rows where target variable (Result) is NaN
+        data = data.dropna(subset=['Result'])
+        
         Q1 = data['AnnualPremium'].quantile(0.25)
         Q3 = data['AnnualPremium'].quantile(0.75)
         IQR = Q3 - Q1

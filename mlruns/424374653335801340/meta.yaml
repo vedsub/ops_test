@@ -1,0 +1,6 @@
+artifact_location: file:///home/vedant/mlops-project/mlruns/424374653335801340
+creation_time: 1767274793495
+experiment_id: '424374653335801340'
+last_update_time: 1767274793495
+lifecycle_stage: active
+name: Model Training Experiment
