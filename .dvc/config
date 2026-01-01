@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = E:\datasets\insurance-dataset
+    url = /home/vedant/dvc-storage
