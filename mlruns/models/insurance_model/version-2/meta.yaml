@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1767334521825
+current_stage: None
+description: null
+last_updated_timestamp: 1767334521825
+name: insurance_model
+run_id: 19b181ef0f4046ef8b00e5ef2a6f7c96
+run_link: null
+source: file:///home/vedant/mlops-project/mlruns/424374653335801340/19b181ef0f4046ef8b00e5ef2a6f7c96/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/vedant/mlops-project/mlruns/424374653335801340/19b181ef0f4046ef8b00e5ef2a6f7c96/artifacts/model
+user_id: null
+version: 2

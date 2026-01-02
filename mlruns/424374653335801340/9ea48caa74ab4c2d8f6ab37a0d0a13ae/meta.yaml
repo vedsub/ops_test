@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vedant/mlops-project/mlruns/424374653335801340/9ea48caa74ab4c2d8f6ab37a0d0a13ae/artifacts
+end_time: 1767335124449
+entry_point_name: ''
+experiment_id: '424374653335801340'
+lifecycle_stage: active
+run_id: 9ea48caa74ab4c2d8f6ab37a0d0a13ae
+run_name: valuable-newt-98
+run_uuid: 9ea48caa74ab4c2d8f6ab37a0d0a13ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767335119820
+status: 3
+tags: []
+user_id: vedant
