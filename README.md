@@ -1,5 +1,5 @@
 # Insurance Cross Sell Prediction 🏠🏥
-[![GitHub](https://img.shields.io/badge/GitHub-code-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/vedsub/ops-test) 
+[![GitHub](https://img.shields.io/badge/GitHub-code-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/vedsub/ops_test) 
 
 Welcome to the Insurance Cross-Selling Prediction project! The goal of this project is to predict which customers are most likely to purchase additional insurance products using a machine learning model.
 
@@ -75,6 +75,6 @@ run monitor.ipynb file
 
 ## License
 
-Copyright © 2024, [Prasad Mahamulkar](https://github.com/prsdm).
+
 
 Released under the [Apache-2.0 license](LICENSE).
